@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba, ben Deniz 👋</h1>
+<h1 align="center">Merhaba, ben Deniz </h1>
 
 <p align="center">
   <strong>Bilgisayar Mühendisi · Test Otomasyonu</strong>
@@ -10,7 +10,7 @@ Bilgisayar mühendisiyim ve test otomasyonuna odaklanıyorum. Bir yazılım şir
 
 ---
 
-## 🧪 Test ve Otomasyon
+##  Test ve Otomasyon
 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium_WebDriver-43B02A?style=flat-square&logo=selenium&logoColor=white)
@@ -19,7 +19,7 @@ Bilgisayar mühendisiyim ve test otomasyonuna odaklanıyorum. Bir yazılım şir
 ![JUnit5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-## 💻 Diller ve Teknolojiler
+##  Diller ve Teknolojiler
 
 **Diller**
 
@@ -40,6 +40,6 @@ Bilgisayar mühendisiyim ve test otomasyonuna odaklanıyorum. Bir yazılım şir
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## 📫 İletişim
+##  İletişim
 
 [![E-posta](https://img.shields.io/badge/denizbaran.akyol@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:denizbaran.akyol@gmail.com)
