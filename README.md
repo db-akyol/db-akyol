@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba, ben Deniz 👋</h1>
+<h1 align="center">Merhaba, ben Deniz </h1>
 
 <p align="center">
   <strong>QA Otomasyon Mühendisi · Playwright · Selenium · Java · TypeScript · API Testi</strong>
@@ -8,9 +8,9 @@
 
 **Yazılım testi ve test otomasyonuna** odaklanan bir bilgisayar mühendisiyim. Yaklaşık bir yıl boyunca Node.js ve Ruby on Rails servislerinde **API testi**, **script ile süreç otomasyonu** ve **log analizi** yaptım. Şu an Playwright, Selenium ve Postman ile UI ve API test otomasyonu projeleri geliştiriyorum.
 
-🎯 **QA / Test Otomasyon Mühendisi pozisyonlarına açığım.**
+ **QA / Test Otomasyon Mühendisi pozisyonlarına açığım.**
 
-## 🧪 Test otomasyonu projeleri
+##  Test otomasyonu projeleri
 
 | Proje | İçerik | Teknolojiler |
 |---|---|---|
@@ -20,7 +20,7 @@
 | [**selenium-amazon-ui-automation**](https://github.com/db-akyol/selenium-amazon-ui-automation) | Amazon Türkiye için UI testleri: arama, filtreler, sepet, giriş | Java · Selenium 4 · JUnit 5 · Maven |
 | [**saucedemo-playwright-e2e**](https://github.com/db-akyol/saucedemo-playwright-e2e) | Chromium, Firefox ve WebKit'te Page Object Model ile E2E testler | Playwright · TypeScript |
 
-## 🛠️ Yetkinlikler
+##  Yetkinlikler
 
 **Test**
 
@@ -53,6 +53,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 📫 İletişim
+##  İletişim
 
 [![E-posta](https://img.shields.io/badge/denizbaran.akyol@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:denizbaran.akyol@gmail.com)
